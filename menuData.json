@@ -1,0 +1,742 @@
+{
+    "menu": 
+        [
+            {
+                "label": "Nasza oferta", "level": 1, "link": null, "sub": 
+                [
+                    {"label": "Kategoria 1", "level": 2, "link": null, "sub": 
+                        [
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {"label": "Kategoria 2", "level": 2, "link": null, "sub": 
+                        [
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Outlet", "level": 1, "link": null, "sub": 
+                [
+                    {"label": "Kategoria 1", "level": 2, "link": null, "sub": 
+                        [
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {"label": "Kategoria 2", "level": 2, "link": null, "sub": 
+                        [
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {"label": "Kategoria 3", "level": 2, "link": null, "sub": 
+                        [
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            
+            {
+                "label": "Promowane", "level": 1, "link": null, "sub": 
+                [
+                    {"label": "Kategoria 1", "level": 2, "link": null, "sub": 
+                        [
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {"label": "Kategoria 2", "level": 2, "link": null, "sub": 
+                        [
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            },
+                            {"label": "Sub2Category1", "level": 3, "link": null, "sub": 
+                                [
+                                    {"label": "Sub3Category1", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category2", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "Sub3Category3", "level": 4, "link": null, "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    },
+                                    {"label": "SubCategory4", "level": 4, "link": "#", "sub": 
+                                        [
+                                            {"label": "Sub4Category1", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category2", "level": 5, "link": "#", "sub": null},
+                                            {"label": "Sub4Category3", "level": 5, "link": "#", "sub": null}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+       ]
+ }
